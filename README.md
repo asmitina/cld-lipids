@@ -9,14 +9,14 @@ The following scripts plot the distribution of lipid species, one for each lipid
 
 In mice treated by diet:
 
-diet_pc_concentrations.R - distribution of PC class lipids;
-diet_pe_concentrations.R - distribution of PE class lipids;
-diet_pi_concentrations.R - distribution of PI class lipids;
-diet_cer_concentrations.R - distribution of ceramide class lipids
+diet_pc_concentrations.R - distribution of phosphatidylcholine class lipids;
+diet_pe_concentrations.R - distribution of phosphatidylethanolamine class lipids;
+diet_pi_concentrations.R - distribution of phosphatidylinositol class lipids;
+diet_car_concentrations.R - distribution of acylcarnitine class lipids.
 
 In mice treated by diet and AAV:
 
-diet_aav_pc_concentrations.R - distribution of PC class lipids;
-diet_aav_pe_concentrations.R - distribution of PE class lipids;
-diet_aav_pi_concentrations.R - distribution of PI class lipids;
-diet_aav_cer_concentrations.R - distribution of ceramide class lipids
+diet_aav_pc_concentrations.R - distribution of phosphatidylcholine class lipids;
+diet_aav_pe_concentrations.R - distribution of phosphatidylethanolamine class lipids;
+diet_aav_pi_concentrations.R - distribution of phosphatidylinositol class lipids;
+diet_aav_cer_concentrations.R - distribution of ceramide class lipids.
